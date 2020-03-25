@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/minhkhuonglu/CLionProjects/codeForce/round#535/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7a301/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_7a301.dir/build.make CMakeFiles/cmTC_7a301.dir/build
+make[1]: *** No rule to make target `/Users/minhkhuonglu/CLionProjects/codeForce/round', needed by `CMakeFiles/cmTC_7a301.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_7a301/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/minhkhuonglu/CLionProjects/codeForce/round#535/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5f763/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_5f763.dir/build.make CMakeFiles/cmTC_5f763.dir/build
+make[1]: *** No rule to make target `/Users/minhkhuonglu/CLionProjects/codeForce/round', needed by `CMakeFiles/cmTC_5f763.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_5f763/fast] Error 2
+
+
+

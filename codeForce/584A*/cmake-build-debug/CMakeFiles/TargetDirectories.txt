@@ -1,0 +1,3 @@
+/Users/minhkhuonglu/CLionProjects/codeForce/584A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/minhkhuonglu/CLionProjects/codeForce/584A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/minhkhuonglu/CLionProjects/codeForce/584A/cmake-build-debug/CMakeFiles/584A.dir

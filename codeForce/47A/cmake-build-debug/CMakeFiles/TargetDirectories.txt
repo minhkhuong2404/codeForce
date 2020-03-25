@@ -1,0 +1,3 @@
+/Users/minhkhuonglu/CLionProjects/47A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/minhkhuonglu/CLionProjects/47A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/minhkhuonglu/CLionProjects/47A/cmake-build-debug/CMakeFiles/47A.dir
